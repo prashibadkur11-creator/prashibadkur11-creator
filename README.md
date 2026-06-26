@@ -19,8 +19,7 @@ how to define their behavior, and how to keep their quality from quietly driftin
 
 They're designed to interlock: the spec template defines behavior and names its
 risks from the taxonomy; the regression suite tests the criteria the spec sets;
-the voice patterns design around the taxonomy's failure modes. One system, not
-four separate things.
+the voice patterns design around the taxonomy's failure modes.
 
 ### What I care about
 
