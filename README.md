@@ -4,7 +4,7 @@ I'm an **AI Product Manager** drawn to a specific, under-asked question:
 not just *can* we build this with AI — but *should* we, and how do we know when
 it's working?
 
-Most of my thinking lives in the repos below. They're not write-ups — they're
+Most of my thinking lives in the repos below. Majority of them are not write-ups — they're
 small, forkable tools that encode how I reason about AI products: how they fail,
 how to define their behavior, and how to keep their quality from quietly drifting.
 
