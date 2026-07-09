@@ -16,16 +16,11 @@ how to define their behavior, and how to keep their quality from quietly driftin
 | ✅ [**prompt-regression-suite**](https://github.com/prashibadkur11-creator/prompt-regression-suite) | CI for prompts: every change runs against a test set and fails the PR if quality regresses |
 | 📋 [**persona-spec-template**](https://github.com/prashibadkur11-creator/persona-spec-template) | A PRD for AI behavior — define how a persona should act and how to test it, before the prompt exists |
 | 🎙️ [**voice-ai-ux-patterns**](https://github.com/prashibadkur11-creator/voice-ai-ux-patterns) | UX patterns specific to voice AI — turn-taking, latency, barge-in, and the anti-patterns to avoid |
+| ⌚ [**voice-first-wearables**](https://github.com/prashibadkur11-creator/voice-first-wearables) | A voice-first auth and command library for AI wearables — four assurance levels, pluggable verifiers, and a warn-only risk gate |
+| 🚦 [**agent-oversight-tiers**](https://github.com/prashibadkur11-creator/agent-oversight-tiers) | When should an AI agent stop and ask a human? Four oversight tiers, a 10-second decision ladder, and a failure rule |
 
-They're designed to interlock: the spec template defines behavior and names its
-risks from the taxonomy; the regression suite tests the criteria the spec sets;
-the voice patterns design around the taxonomy's failure modes.
-
-### What I care about
-
-- Translating fuzzy product intent into **precise, testable AI behavior**
-- Treating prompts and AI quality as **engineering surface area** — versioned, gated, measured
-- The judgment of **when *not* to use AI**, not just where it's exciting
+Each of these started the same way: a question got stuck in my head — *how do AI
+products actually fail? when should an agent stop and ask a human?*
 
 ---
 
