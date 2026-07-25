@@ -13,11 +13,9 @@ how to define their behavior, and how to keep their quality from quietly driftin
 | Repo | What it does |
 |---|---|
 | 🔍 [**ai-failure-mode-taxonomy**](https://github.com/prashibadkur11-creator/ai-failure-mode-taxonomy) | A structured catalog of how AI products fail — with detection and mitigation for each mode |
-| ✅ [**prompt-regression-suite**](https://github.com/prashibadkur11-creator/prompt-regression-suite) | CI for prompts: every change runs against a test set and fails the PR if quality regresses |
-| 📋 [**persona-spec-template**](https://github.com/prashibadkur11-creator/persona-spec-template) | A PRD for AI behavior — define how a persona should act and how to test it, before the prompt exists |
+  📋 [**persona-spec-template**](https://github.com/prashibadkur11-creator/persona-spec-template) | A PRD for AI behavior — define how a persona should act and how to test it, before the prompt exists |
 | 🎙️ [**voice-ai-ux-patterns**](https://github.com/prashibadkur11-creator/voice-ai-ux-patterns) | UX patterns specific to voice AI — turn-taking, latency, barge-in, and the anti-patterns to avoid |
 | ⌚ [**voice-first-wearables**](https://github.com/prashibadkur11-creator/voice-first-wearables) | A voice-first auth and command library for AI wearables — four assurance levels, pluggable verifiers, and a warn-only risk gate |
-| 🚦 [**The Decisions AI Can't Make for Us**](https://github.com/prashibadkur11-creator/The-Decisions-AI-Can-t-Make-For-Us-) | When should an AI agent stop and ask a human? Four oversight tiers, a 10-second decision ladder, and a failure rule |
 
 Each of these started the same way: a question got stuck in my head — *how do AI
 products actually fail? when should an agent stop and ask a human?*
